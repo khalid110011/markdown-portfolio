@@ -1,0 +1,3 @@
+- wake up early :+1:
+- wash face :sparkles:
+- brush your teeth :octocat:
