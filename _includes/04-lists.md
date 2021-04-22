@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- wake up early :+1:
+- wash face :sparkles:
+- brush your teeth :octocat:
